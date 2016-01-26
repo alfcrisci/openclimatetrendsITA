@@ -2,7 +2,7 @@
 
 Italian climate trend 1950 -2015 #reproducible code R
 
-Data source : European Climate Data Assesement http://www.ecad.eu/download/ensembles/download.php
+Data source : European Climate Data Assessement http://www.ecad.eu/download/ensembles/download.php
 
 Data Policies: http://www.ecad.eu/publications/index.php
 
